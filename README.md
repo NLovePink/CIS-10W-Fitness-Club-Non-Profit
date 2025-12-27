@@ -1,4 +1,4 @@
-# Fitness-Club-Non-Profit
+# CIS 102W (Wed Design for Non Profit Organization) - Fitness Club Non Profit
 
 Welcome to Forward Fitness Club. Our mission is to help our clients meet their fitness and nutrition goals.
 
